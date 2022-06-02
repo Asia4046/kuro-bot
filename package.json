@@ -1,0 +1,19 @@
+{
+  "name": "kuro-bot",
+  "version": "1.0.0",
+  "description": "a discord bot made by Kteam",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kteam-Devs/kuro-bot.git"
+  },
+  "author": "KTeam-Devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kteam-Devs/kuro-bot/issues"
+  },
+  "homepage": "https://github.com/Kteam-Devs/kuro-bot#readme"
+}
