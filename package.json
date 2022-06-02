@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Kteam-Devs/kuro-bot/issues"
   },
-  "homepage": "https://github.com/Kteam-Devs/kuro-bot#readme"
+  "homepage": "https://github.com/Kteam-Devs/kuro-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "glob": "^8.0.3",
+    "mongoose": "^6.3.5"
+  }
 }
